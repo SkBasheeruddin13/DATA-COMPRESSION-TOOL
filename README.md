@@ -49,3 +49,4 @@ Data Backup – Reduces storage space required for backups.
 A data compression tool is an essential utility that optimizes storage and transmission efficiency. Lossless compression ensures data integrity, while lossy compression provides significant size reduction for multimedia content. With the increasing demand for efficient data management, compression tools play a crucial role in modern computing.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/8a8eb3da-ce66-42e8-ba18-cfa3bdf5b789)
